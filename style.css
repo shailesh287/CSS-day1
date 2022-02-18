@@ -1,0 +1,44 @@
+h3{
+    color: violet;
+
+}
+
+.box{
+    border: 10px groove green;
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    margin: 20px;
+    background-color: rgb(238, 89, 89);
+}
+.border{
+    border: 10px double hotpink;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+}
+.circle{
+    border: 5px solid aqua;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+#one{
+    color: blueviolet;
+    font-style: oblique;
+}
+#two{
+    color: red;
+    font-weight: 900;
+}
+.three{
+    color: purple;
+    font-size: 20px;
+
+}
+.four{
+    color: blue;
+    font-size: 30px;
+    background-color: aquamarine;
+}
